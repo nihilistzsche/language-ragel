@@ -1,0 +1,6 @@
+".source.ragel":
+  editor:
+    commentStart: "# "
+".source.c.ragel":
+  editor:
+    foldEndPattern: "(?<!\\*)\\*\\*/|^\\s*\\}"
